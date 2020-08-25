@@ -1,6 +1,9 @@
 
 NoSQL Fitness Tracker
 
+Live link to deployed application: 
+https://fitnesstracker777.herokuapp.com/
+
 ## Table of Contents
   * [Description](#description)
   * [Installation](#install)
